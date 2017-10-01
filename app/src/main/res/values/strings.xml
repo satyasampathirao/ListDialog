@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ListDialog</string>
+
+
+    <string-array name="spinner_docs">
+        <item>Select Category </item>
+        <item>License</item>
+        <item>Registration Certificate</item>
+        <item>Insurance</item>
+        <item>pollution</item>
+        <item>Aadhar</item>
+
+
+    </string-array>
+
+
+</resources>
